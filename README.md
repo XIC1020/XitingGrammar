@@ -1,10 +1,11 @@
 # XitingGrammar – Encrypted Real‑Time Chat Room
+```
 https://img.shields.io/badge/License-MIT-yellow.svg
 https://img.shields.io/badge/Python-3.8+-blue.svg
 https://img.shields.io/badge/FastAPI-0.95+-green.svg
 https://img.shields.io/badge/Encryption-AES--256-blue
 https://img.shields.io/badge/E2EE-Supported-brightgreen
-
+```
 A secure, real‑time chat room application with end‑to‑end encryption (E2EE) , private and group messaging, file sharing, and ephemeral message modes. All messages are encrypted on the client side using AES‑256 – no plaintext is ever stored on the server.
 
 🔒 End‑to‑end encryption ensures that only you and your intended recipient can read the messages.
