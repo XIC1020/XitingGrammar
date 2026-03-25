@@ -1,4 +1,4 @@
-#XitingGrammar Chat Room
+XitingGrammar Chat Room
 A secure, real-time encrypted chat room application with private and group messaging, file sharing, and end-to-end encryption support.
 
 Features
